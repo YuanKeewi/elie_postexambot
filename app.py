@@ -11,8 +11,8 @@ while True:
   
   for each_word in list_of_words:
     
-    if each_word == "happy":
-      feelings_list.append("happy")
+    if each_word == "dead internally":
+      feelings_list.append("dead internally")
       encouragement_list.append("keep smiling")
       counter += 1
     if each_word == "bored":
